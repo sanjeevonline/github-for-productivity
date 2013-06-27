@@ -1,0 +1,2 @@
+publich class HelloWorld {
+}
